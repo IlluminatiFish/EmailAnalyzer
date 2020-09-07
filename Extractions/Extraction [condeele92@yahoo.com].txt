@@ -1,0 +1,23 @@
+=== Extraction Information ===
+[~] Source Email: condeele92@yahoo.com
+[~] Source Email Server: sonic306-2.consmr.mail.bf2.yahoo.com
+ - ASN: AS26101 Oath Holdings Inc.
+ - ISP: Oath Holdings Inc.
+ - ORG: Oath Holdings Inc
+[~] Mailer: WebService/1.1.16455 YMailNodin Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+[~] Return Email: dhldeliveryservice55@hotmail.com
+[~] Email Traceroute [1 hop(s)]:
+ [SOURCE MAIL SERVER] 1: 74.6.132.41 - (AS26101 Oath Holdings Inc. / Oath Holdings Inc. / Oath Holdings Inc)
+[~] Source IP: None
+  - ASN: None
+  - ISP: None
+  - ORG: None
+[~] Notes:
+ - Source Email Domain = yahoo.com
+  - ASN: AS26101 Oath Holdings Inc.
+  - ISP: Oath Holdings Inc.
+  - ORG: Oath Holdings Inc
+ - Source Email Server Domain = consmr.mail.bf2.yahoo.com
+  - ASN: None
+  - ISP: None
+  - ORG: None
