@@ -1,0 +1,23 @@
+=== Extraction Information ===
+[~] Source Email: continentalbankplcbenin.bank@gmail.com
+[~] Source Email Server: mail-sor-f65.google.com
+ - ASN: AS15169 Google LLC
+ - ISP: Google LLC
+ - ORG: Google LLC
+[~] Mailer: None
+[~] Return Email: neilwaudby@mail.ru
+[~] Email Traceroute:
+ [-] 1: 209.85.220.65 - (AS15169 Google LLC / Google LLC / Google LLC)
+[~] Source IP: 209.85.220.65
+  - ASN: AS15169 Google LLC
+  - ISP: Google LLC
+  - ORG: Google LLC
+[~] Notes:
+ - Source Email Domain = gmail.com
+  - ASN: AS15169 Google LLC
+  - ISP: Google LLC
+  - ORG: Google LLC
+ - Source Email Server Domain = google.com
+  - ASN: AS15169 Google LLC
+  - ISP: GOOGLE-2a
+  - ORG: Google LLC
