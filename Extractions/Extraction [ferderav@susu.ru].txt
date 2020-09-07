@@ -1,0 +1,23 @@
+=== Extraction Information ===
+[~] Source Email: ferderav@susu.ru
+[~] Source Email Server: mail-smtp01.urc.ac.ru
+ - ASN: AS8324 South Ural State University
+ - ISP: South Ural State University
+ - ORG: South Ural State University
+[~] Mailer: Zimbra 8.8.15_GA_3918 (zclient/8.8.15_GA_3918)
+[~] Return Email: M Gideon H mr.gideonho@yahoo.com
+[~] Email Traceroute:
+ [-] 1: 37.75.249.9 - (AS8324 South Ural State University / South Ural State University / South Ural State University)
+[~] Source IP: 129.205.113.207
+  - ASN: AS37148 Globacom Limited
+  - ISP: Globacom Limited
+  - ORG: Glomobile Gprs
+[~] Notes:
+ - Source Email Domain = susu.ru
+  - ASN: AS8324 South Ural State University
+  - ISP: South Ural State University
+  - ORG: South Ural State University
+ - Source Email Server Domain = urc.ac.ru
+  - ASN: AS8324 South Ural State University
+  - ISP: South Ural State University
+  - ORG: South Ural State University
