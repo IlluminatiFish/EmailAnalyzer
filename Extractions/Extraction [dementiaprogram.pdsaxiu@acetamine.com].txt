@@ -1,0 +1,25 @@
+=== Extraction Information ===
+[~] Source Email: dementiaprogram.pdsaxiu@acetamine.com
+[~] Source Email Server: sozialised.com
+ - ASN: AS197328 Istanbuldc Veri Merkezi Ltd Sti
+ - ISP: Istanbuldc Veri Merkezi Ltd Sti
+ - ORG: Istanbuldc Veri Merkezi Ltd Sti
+[~] Mailer: Alife12
+[~] Return Email: "yerzsoybcv" 195.69.187.6.nd2b14c--.acetamine.com
+[~] Email Traceroute [3 hop(s)]:
+ [SOURCE MAIL SERVER] 1: 195.69.187.6 - (AS60455 ABC UCRANIAN-FRANCH JOINT VENTURE / "ABC" UCRANIAN-FRANCH JOINT VENTURE / Scientific Production Enterprise "Technaukservice" Ltd)
+ [-] 2: 209.61.151.222 - (AS33070 Rackspace Hosting / Rackspace Hosting / Mailgun Technologies Inc)
+ [SOURCE USER IP] 3: 34.216.191.165 - (AS16509 Amazon.com, Inc. / Amazon.com, Inc. / AWS EC2 (us-west-2))
+[~] Source IP: 34.216.191.165
+  - ASN: AS16509 Amazon.com, Inc.
+  - ISP: Amazon.com, Inc.
+  - ORG: AWS EC2 (us-west-2)
+[~] Notes:
+ - Source Email Domain = acetamine.com
+  - ASN: AS60455 ABC UCRANIAN-FRANCH JOINT VENTURE
+  - ISP: "ABC" UCRANIAN-FRANCH JOINT VENTURE
+  - ORG: Scientific Production Enterprise "Technaukservice" Ltd
+ - Source Email Server Domain = sozialised.com
+  - ASN: AS197328 Istanbuldc Veri Merkezi Ltd Sti
+  - ISP: Istanbuldc Veri Merkezi Ltd Sti
+  - ORG: Istanbuldc Veri Merkezi Ltd Sti
