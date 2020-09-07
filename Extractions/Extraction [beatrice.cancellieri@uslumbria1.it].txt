@@ -1,0 +1,24 @@
+=== Extraction Information ===
+[~] Source Email: beatrice.cancellieri@uslumbria1.it
+[~] Source Email Server: smtpout.uslumbria1.it
+ - ASN: AS3269 Telecom Italia S.p.A.
+ - ISP: INTERBUSINESS
+ - ORG: UNITA' SANITARIA LOCALE N.2
+[~] Mailer: Zimbra 8.8.12_GA_3803 (zclient/8.8.12_GA_3803)
+[~] Return Email: beatrice.cancellieri@uslumbria1.it
+[~] Email Traceroute:
+ [SOURCE MAIL SERVER] 1: 37.205.152.200 - (AS3269 Telecom Italia S.p.A. / INTERBUSINESS / UNITA' SANITARIA LOCALE N.2)
+ [-] 1: 37.205.152.200 - (AS3269 Telecom Italia S.p.A. / INTERBUSINESS / UNITA' SANITARIA LOCALE N.2)
+[~] Source IP: 217.131.85.71
+  - ASN: AS34984 TELLCOM ILETISIM HIZMETLERI A.S.
+  - ISP: SOLNET
+  - ORG: None
+[~] Notes:
+ - Source Email Domain = uslumbria1.it
+  - ASN: AS3269 Telecom Italia S.p.A.
+  - ISP: INTERBUSINESS
+  - ORG: LA FERRAMENTA SRL
+ - Source Email Server Domain = uslumbria1.it
+  - ASN: AS3269 Telecom Italia S.p.A.
+  - ISP: INTERBUSINESS
+  - ORG: LA FERRAMENTA SRL
