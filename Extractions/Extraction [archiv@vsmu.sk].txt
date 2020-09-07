@@ -1,0 +1,23 @@
+=== Extraction Information ===
+[~] Source Email: archiv@vsmu.sk
+[~] Source Email Server: mail.vsmu.sk
+ - ASN: AS2607 Zdruzenie pouzivatelov Slovenskej akademickej datovej siete
+ - ISP: Zdruzenie pouzivatelov Slovenskej akademickej datovej siete
+ - ORG: Vsmu
+[~] Mailer: Roundcube Webmail/1.2.3
+[~] Return Email: jl529019@gmail.com
+[~] Email Traceroute [1 hop(s)]:
+ [SOURCE MAIL SERVER] 1: 193.87.13.10 - (AS2607 Zdruzenie pouzivatelov Slovenskej akademickej datovej siete / Zdruzenie pouzivatelov Slovenskej akademickej datovej siete / Vsmu)
+[~] Source IP: None
+  - ASN: None
+  - ISP: None
+  - ORG: None
+[~] Notes:
+ - Source Email Domain = vsmu.sk
+  - ASN: AS29405 VNET a.s.
+  - ISP: VNET
+  - ORG: VNET-org
+ - Source Email Server Domain = vsmu.sk
+  - ASN: AS29405 VNET a.s.
+  - ISP: VNET
+  - ORG: VNET-org
