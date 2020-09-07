@@ -1,0 +1,25 @@
+=== Extraction Information ===
+[~] Source Email: sherryla@cogeco.ca
+[~] Source Email Server: mail8236c14.megamailservers.com
+ - ASN: AS14116 InternetNamesForBusiness.com
+ - ISP: InternetNamesForBusiness.com
+ - ORG: InternetNamesForBusiness.com
+[~] Mailer: Oracle Communications Messenger Express 7.0.5.29.0 64bit (built Jul 9 2013)
+[~] Return Email: mrgodwincampbell@gmail.com
+[~] Email Traceroute:
+ [-] 1: 66.226.82.36 - (AS14116 InternetNamesForBusiness.com / InternetNamesForBusiness.com / InternetNamesForBusiness.com)
+ [-] 2: 216.221.81.192 - (AS7992 Cogeco Cable / Cogeco Cable / Cogeco Telecom)
+ [-] 3: 156.0.213.32 - (AS37136 ETISALAT BENIN / Etisalat Benin SA / Etisalat Benin)
+[~] Source IP: 156.0.213.32
+  - ASN: AS37136 ETISALAT BENIN
+  - ISP: Etisalat Benin SA
+  - ORG: Etisalat Benin
+[~] Notes:
+ - Source Email Domain = cogeco.ca
+  - ASN: AS7992 Cogeco Cable
+  - ISP: Cogeco Cable Inc.
+  - ORG: Cogeco Cable Solutions
+ - Source Email Server Domain = megamailservers.com
+  - ASN: AS14116 InternetNamesForBusiness.com
+  - ISP: InternetNamesForBusiness.com
+  - ORG: InternetNamesForBusiness.com
