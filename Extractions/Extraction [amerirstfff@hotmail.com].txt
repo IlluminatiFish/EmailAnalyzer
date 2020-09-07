@@ -1,0 +1,29 @@
+=== Extraction Information ===
+[~] Source Email: amerirstfff@hotmail.com
+[~] Source Email Server: smtp4.enternet.hu
+ - ASN: AS197248 Dravanet Co Ltd.
+ - ISP: Dravanet Co Ltd.
+ - ORG: Enternet
+[~] Mailer: Roundcube Webmail/1.3.7
+[~] Return Email: atmpaymentcenter131@gmail.com
+[~] Email Traceroute [2 hop(s)]:
+ [SOURCE MAIL SERVER] 1: 62.112.192.37 - (AS197248 Dravanet Co Ltd. / Dravanet Co Ltd. / Enternet)
+ [SOURCE USER IP] 2: 109.61.11.16 - (AS197248 Dravanet Co Ltd. / Dravanet / None)
+[~] Source IP: 109.61.11.16
+  - ASN: AS197248 Dravanet Co Ltd.
+  - ISP: Dravanet
+  - ORG: None
+[~] Notes:
+ - Source Email Domain = hotmail.com
+  - ASN: AS8068 Microsoft Corporation
+  - ISP: Microsoft Corporation
+  - ORG: Microsoft Corporation
+ - Source Email Server Domain = enternet.hu
+  - ASN: None
+  - ISP: Dravanet
+  - ORG: None
+  
+  
+  
+  
+  
