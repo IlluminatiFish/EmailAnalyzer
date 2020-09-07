@@ -1,0 +1,23 @@
+=== Extraction Information ===
+[~] Source Email: wilson.pereira@sap.sp.gov.br
+[~] Source Email Server: mail.sap.sp.gov.br
+ - ASN: AS28637 Cia Proc. de Dados do Estado de S Paulo - Prodesp
+ - ISP: Cia Proc. de Dados do Estado de S Paulo - Prodesp
+ - ORG: Cia Proc. de Dados do Estado de S Paulo - Prodesp
+[~] Mailer: Zimbra 8.6.0_GA_1237 (zclient/8.6.0_GA_1237)
+[~] Return Email: mrsmaviswac01@gmail.com
+[~] Email Traceroute:
+ [-] 1: 200.144.25.104 - (AS28637 Cia Proc. de Dados do Estado de S Paulo - Prodesp / Cia Proc. de Dados do Estado de S Paulo - Prodesp / Cia Proc. de Dados do Estado de S Paulo - Prodesp)
+[~] Source IP: 217.131.85.71
+  - ASN: AS34984 TELLCOM ILETISIM HIZMETLERI A.S.
+  - ISP: SOLNET
+  - ORG: None
+[~] Notes:
+ - Source Email Domain = sap.sp.gov.br
+  - ASN: None
+  - ISP: None
+  - ORG: None
+ - Source Email Server Domain = sap.sp.gov.br
+  - ASN: None
+  - ISP: None
+  - ORG: None
