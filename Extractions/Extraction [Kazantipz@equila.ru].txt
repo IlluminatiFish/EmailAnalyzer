@@ -1,0 +1,23 @@
+=== Extraction Information ===
+[~] Source Email: Kazantipz@equila.ru
+[~] Source Email Server: as1.equila.ru
+ - ASN: AS3216 PJSC Vimpelcom
+ - ISP: EDN Sovintel
+ - ORG: None
+[~] Mailer: None
+[~] Return Email: 1.site.manag@gmail.com
+[~] Email Traceroute:
+ [-] 1: 81.211.94.118 - (AS3216 PJSC Vimpelcom / EDN Sovintel / None)
+[~] Source IP: 81.211.94.118
+  - ASN: AS3216 PJSC Vimpelcom
+  - ISP: EDN Sovintel
+  - ORG: None
+[~] Notes:
+ - Source Email Domain = equila.ru
+  - ASN: AS25532 LLC MASTERHOST
+  - ISP: .masterhost
+  - ORG: JSC RuWeb
+ - Source Email Server Domain = equila.ru
+  - ASN: AS25532 LLC MASTERHOST
+  - ISP: LLC "MASTERHOST"
+  - ORG: .masterhost
