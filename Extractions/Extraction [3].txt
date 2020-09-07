@@ -1,0 +1,24 @@
+=== Extraction Information ===
+[~] Source Email: info@marmor-schauz.de
+[~] Source Email Server: X-DIMENSIONS.home
+ - ASN: None
+ - ISP: None
+ - ORG: None
+[~] Mailer: Microsoft Outlook Express 6.00.2800.1081
+[~] Return Email: howardnadlernurse@gmail.com
+[~] Email Traceroute:
+ [-] 1: 113.52.135.147 - (AS133905 Layerstack Limited / Layerstack Limited / Cloudinfra)
+ [-] 2: 129.205.113.200 - (AS37148 Globacom Limited / Globacom Limited / Glomobile Gprs)
+[~] Source IP: 129.205.113.200
+  - ASN: AS37148 Globacom Limited
+  - ISP: Globacom Limited
+  - ORG: Glomobile Gprs
+[~] Notes:
+ - Source Email Domain = marmor-schauz.de
+  - ASN: AS197540 netcup GmbH
+  - ISP: netcup GmbH
+  - ORG: netcup GmbH
+ - Source Email Server Domain = X-DIMENSIONS.home
+  - ASN: None
+  - ISP: None
+  - ORG: None
