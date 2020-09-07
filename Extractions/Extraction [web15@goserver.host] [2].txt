@@ -1,0 +1,24 @@
+=== Extraction Information ===
+[~] Source Email: web15@goserver.host
+[~] Source Email Server: s93.goserver.host
+ - ASN: AS44066 First Colo GmbH
+ - ISP: First Colo GmbH
+ - ORG: webgo GmbH
+[~] Mailer: Microsoft Outlook Express 6.00.2600.0000
+[~] Return Email: bbank4021@gmail.com
+[~] Email Traceroute [2 hop(s)]:
+ [SOURCE MAIL SERVER] 1: 37.17.224.93 - (AS44066 First Colo GmbH / First Colo GmbH / webgo GmbH)
+ [SOURCE USER IP] 2: 220.134.226.121 - (AS3462 Data Communication Business Group / Chunghwa Telecom Co., Ltd. / Chunghwa Telecom Co. Ltd.)
+[~] Source IP: 220.134.226.121
+  - ASN: AS3462 Data Communication Business Group
+  - ISP: Chunghwa Telecom Co., Ltd.
+  - ORG: Chunghwa Telecom Co. Ltd.
+[~] Notes:
+ - Source Email Domain = goserver.host
+  - ASN: AS44066 First Colo GmbH
+  - ISP: First Colo GmbH
+  - ORG: webgo GmbH
+ - Source Email Server Domain = goserver.host
+  - ASN: AS44066 First Colo GmbH
+  - ISP: First Colo GmbH
+  - ORG: webgo GmbH
