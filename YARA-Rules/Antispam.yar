@@ -10,7 +10,7 @@ rule SpamBot_1
 		$header_str_2 = "X-WCMS: 46734" fullword   
 		$header_str_3 = "Organization: Google_Corporation" fullword   
     condition:
-        any of ($header_str_*)
+        any of ($header_str*)
 }
 
 
@@ -26,5 +26,5 @@ rule SpamBot_2
 		$header_str_3 = "CC: <-----@---->" fullword
 
     condition:
-        any of ($header_str_*)
+        any of ($header_str*)
 }
