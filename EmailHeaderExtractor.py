@@ -1,6 +1,8 @@
 import re
 import requests
 import ipaddress
+import json
+
 
 def validateIP(ip):
     try:
@@ -19,7 +21,6 @@ def domainExtraction(domain):
         output = o[1]
         return output #Output the domain without the front bit
         
-
 def getInformation(datatype, data):
     if data is None:
         return 
@@ -128,8 +129,6 @@ for x in content:
             data = x.split(": ")[1]
             reply = data.replace('<', '').replace('>', '')      
 
-    
-
 print("")
 print("=== Extraction Information ===")
 
@@ -153,7 +152,6 @@ for ip in ips:
     if z == 1:
         print(" [SOURCE MAIL SERVER] "+str(z)+":",ip,"- ("+str(getInformation("ASN", ip)),"/",str(getInformation("ISP", ip)),"/",str(getInformation("ORG", ip))+")")
     else:
-        #print(x, "=", z)
         if x == z:
             if origin_ip is None:
                 origin_ip = ips[x-1]
@@ -162,11 +160,13 @@ for ip in ips:
             print(" [-] "+str(z)+":",ip,"- ("+str(getInformation("ASN", ip)),"/",str(getInformation("ISP", ip)),"/",str(getInformation("ORG", ip))+")")
     z += 1
 
-    
-print("[~] Source IP:",origin_ip)
-print("  - ASN:",getInformation("ASN", origin_ip))
-print("  - ISP:",getInformation("ISP", origin_ip))
-print("  - ORG:",getInformation("ORG", origin_ip))
+if(validateIP(origin_ip) == False):
+    pass
+else:
+    print("[~] Source IP:",origin_ip)
+    print("  - ASN:",getInformation("ASN", origin_ip))
+    print("  - ISP:",getInformation("ISP", origin_ip))
+    print("  - ORG:",getInformation("ORG", origin_ip))
 
 print("[~] Notes:")    
 
@@ -180,7 +180,7 @@ size = len(source_mail_server.split(".")) - 1 #Indexes of lists start at 0 so we
 
 if(validateIP(source_mail_server) == False):
     email_server_domain = domainExtraction(source_mail_server)
-    print(" - Source Email Server Domain =",email_server_domain) 
+    print(" - Source Email Server Domain =",email_server_domain) #needs a bug fix
 
     print("  - ASN:",getInformation("ASN", email_server_domain))
     print("  - ISP:",getInformation("ISP", email_server_domain))
