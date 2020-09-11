@@ -1,0 +1,19 @@
+=== Extraction Information ===
+[~] Source Email: nicolina.spagnoletti@mail.aslbenevento1.it
+[~] Source Email Server: mail.aslbenevento1.it
+ - ASN: AS12874 Fastweb SpA
+ - ISP: Fastweb Networks
+ - ORG: None
+[~] Mailer: Zimbra 8.7.0_GA_1659 (zclient/8.7.0_GA_1659)
+[~] Return Email: Brittany Boettcher b.boettcher@skollfoundation.us
+[~] Email Traceroute [1 hop(s)]:
+ [SOURCE MAIL SERVER] 1: 93.51.173.134 - (AS12874 Fastweb SpA / Fastweb Networks / None)
+[~] Notes:
+ - Source Email Domain = mail.aslbenevento1.it
+  - ASN: AS12874 Fastweb SpA
+  - ISP: Fastweb Networks
+  - ORG: None
+ - Source Email Server Domain = aslbenevento1.it
+  - ASN: None
+  - ISP: None
+  - ORG: None
