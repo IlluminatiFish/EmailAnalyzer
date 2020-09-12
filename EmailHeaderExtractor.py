@@ -3,7 +3,6 @@ import requests
 import ipaddress
 import json
 
-
 def validateIP(ip):
     try:
         i = ipaddress.ip_address(ip)
@@ -68,13 +67,11 @@ while True:
     else:
         break
 
-
 emailer = None
 source_mail_server = None
 mailer = None
 origin_ip = None
 reply = None
-
 
 for x in content:
     prefix = str(x.split(": ")[0])
@@ -82,16 +79,17 @@ for x in content:
         if prefix == "Received":
             if 'Received: from' in x:
 
-                #print(x)
                 ip_pattern = re.compile(r'(?:^|\b(?<!\.))(?:1?\d\d?|2[0-4]\d|25[0-5])(?:\.(?:1?\d\d?|2[0-4]\d|25[0-5])){3}(?=$|[^\w.])') # need to strengthen the regex here
                 ip = re.findall(ip_pattern, x)
                 
                 for i in range(len(ip)):
-                    #print(ip[i])
                     if validateIP(ip[i]):
-                        ips.append(ip[i])
-            
-                #print(m)
+                        if ip[i] in ips:
+                            pass
+                            #print("List Error, this IP address is already in the traceroute list!")
+                        else:
+                            ips.append(ip[i])
+                               
                 if 'prod.protection.outlook.com' in x: #Patch for Outlook emails as they start with Outlook email protection domains instead of the actual domain that the email came from like seen on Gmail
                     continue
                 
@@ -143,6 +141,7 @@ print(" - ORG:",getInformation("ORG", source_mail_server))
 print("[~] Mailer:",mailer)
 
 print("[~] Return Email:",reply)
+
 
 z = 1
 x = len(ips)
