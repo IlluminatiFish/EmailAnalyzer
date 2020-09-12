@@ -1,3 +1,8 @@
+###########################################
+#       EmailHeaderExtractor.py           #
+#       Coded by IlluminatiFish           #                  
+###########################################                       
+
 import re
 import requests
 import ipaddress
@@ -75,6 +80,8 @@ reply = None
 
 for x in content:
     prefix = str(x.split(": ")[0])
+
+    
     if 'Received' in x:
         if prefix == "Received":
             if 'Received: from' in x:
@@ -97,33 +104,35 @@ for x in content:
                 sources.append(source)
                 
 
-    if 'From' in x:
-        if prefix == "From":
+
+
+    if 'from' in x.casefold():
+        if prefix.casefold() == "from":
             d = re.split(r'\s{1,}', x)
             e = str(d[len(d)-1:len(d)])
             emailer = str(e.replace('<', '').replace('>', '').replace("['", "").replace("']", ""))
 
-    if 'X-Mailer' in x:
-        if prefix == "X-Mailer":
+    if 'x-mailer' in x.casefold():
+        if prefix.casefold() == "x-mailer":
             data = x.split(": ")[1]
             mailer = data
 
-    if 'User-Agent' in x:
-        if prefix == 'User-Agent':
+    if 'user-agent' in x.casefold():
+        if prefix.casefold() == 'user-agent':
             data = x.split(": ")[1]
             mailer = data
 
-    if 'X-Originating-IP' in x:
-        if prefix == "X-Originating-IP":
+    if 'x-originating-ip' in x.casefold():
+        if prefix.casefold() == "x-originating-ip":
             data = x.split(": ")[1]
             origin_ip = data.replace("[", "").replace("]", "")
 
-    if 'Reply-To' in x:
-        if prefix == "Reply-To":
+    if 'reply-to' in x.casefold():
+        if prefix.casefold() == "reply-to":
             data = x.split(": ")[1]
             reply = data.replace('<', '').replace('>', '')  
-    if 'Return-Path' in x:
-        if prefix == "Return-Path":
+    if 'return-path' in x.casefold():
+        if prefix.casefold() == "return-path":
             data = x.split(": ")[1]
             reply = data.replace('<', '').replace('>', '')      
 
@@ -148,6 +157,7 @@ x = len(ips)
 print("[~] Email Traceroute [{} hop(s)]:".format(len(ips)))
 
 for ip in ips:
+    
     if z == 1:
         print(" [SOURCE MAIL SERVER] "+str(z)+":",ip,"- ("+str(getInformation("ASN", ip)),"/",str(getInformation("ISP", ip)),"/",str(getInformation("ORG", ip))+")")
     else:
@@ -155,6 +165,8 @@ for ip in ips:
             if origin_ip is None:
                 origin_ip = ips[x-1]
                 print(" [SOURCE USER IP] "+str(z)+":",ip,"- ("+str(getInformation("ASN", ip)),"/",str(getInformation("ISP", ip)),"/",str(getInformation("ORG", ip))+")")
+            else:
+                print(" [-] "+str(z)+":",ip,"- ("+str(getInformation("ASN", ip)),"/",str(getInformation("ISP", ip)),"/",str(getInformation("ORG", ip))+")")
         else:
             print(" [-] "+str(z)+":",ip,"- ("+str(getInformation("ASN", ip)),"/",str(getInformation("ISP", ip)),"/",str(getInformation("ORG", ip))+")")
     z += 1
