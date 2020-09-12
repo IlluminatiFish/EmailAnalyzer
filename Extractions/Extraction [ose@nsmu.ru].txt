@@ -1,0 +1,24 @@
+=== Extraction Information ===
+[~] Source Email: ose@nsmu.ru
+[~] Source Email Server: mx1.nsmu.ru
+ - ASN: AS12389 PJSC Rostelecom
+ - ISP: OJSC "North-West Telecom"
+ - ORG: JSC North-West Telecom
+[~] Mailer: None
+[~] Return Email: ose@nsmu.ru
+[~] Email Traceroute [2 hop(s)]:
+ [SOURCE MAIL SERVER] 1: 91.122.224.36 - (AS12389 PJSC Rostelecom / OJSC "North-West Telecom" / JSC North-West Telecom)
+ [SOURCE USER IP] 2: 103.133.105.222 - (AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP / Vietnam Posts and Telecommunications Group / NOCIX Trading and Service Limited Company)
+[~] Source IP: 103.133.105.222
+  - ASN: AS135905 VIETNAM POSTS AND TELECOMMUNICATIONS GROUP
+  - ISP: Vietnam Posts and Telecommunications Group
+  - ORG: NOCIX Trading and Service Limited Company
+[~] Notes:
+ - Source Email Domain = nsmu.ru
+  - ASN: AS12389 PJSC Rostelecom
+  - ISP: OJSC "North-West Telecom"
+  - ORG: JSC North-West Telecom
+ - Source Email Server Domain = nsmu.ru
+  - ASN: AS12389 PJSC Rostelecom
+  - ISP: OJSC "North-West Telecom"
+  - ORG: JSC North-West Telecom
