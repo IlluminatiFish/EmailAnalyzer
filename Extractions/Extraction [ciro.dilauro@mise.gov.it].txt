@@ -1,0 +1,20 @@
+=== Extraction Information ===
+[~] Source Email: ciro.dilauro@mise.gov.it
+[~] Source Email Server: fsm.mise.gov.it
+ - ASN: AS8968 BT Italia S.p.A.
+ - ISP: BT Italia S.p.A.
+ - ORG: Easl
+[~] Mailer: None
+[~] Return Email: "ben@fibisrael.com" ben@fibisrael.com
+[~] Email Traceroute [1 hop(s)]:
+ [SOURCE MAIL SERVER] 1: 85.20.209.249 - (AS8968 BT Italia S.p.A. / BT Italia S.p.A. / Easl)
+[~] Notes:
+ - Referred URLs [0]:
+ - Source Email Domain = mise.gov.it
+  - ASN: AS8968 BT Italia S.p.A.
+  - ISP: BT Italia S.p.A.
+  - ORG: Easl
+ - Source Email Server Domain = mise.gov.it
+  - ASN: AS8968 BT Italia S.p.A.
+  - ISP: BT Italia S.p.A.
+  - ORG: Easl
