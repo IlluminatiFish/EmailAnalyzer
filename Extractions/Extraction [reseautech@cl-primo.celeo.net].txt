@@ -1,0 +1,26 @@
+=== Extraction Information ===
+[~] Source Email: reseautech@cl-primo.celeo.net
+[~] Source Email Server: www12.celeonet.fr
+ - ASN: AS31178 Celeonet SAS
+ - ISP: Celeonet SAS
+ - ORG: Celeonet
+[~] Mailer: None
+[~] Return Email: reseautech@cl-primo.celeo.net
+[~] Email Traceroute [2 hop(s)]:
+ [SOURCE MAIL SERVER] 1: 193.25.197.22 - (AS31178 Celeonet SAS / Celeonet SAS / Celeonet)
+ [SOURCE USER IP] 2: 95.128.72.33 - (AS31178 Celeonet SAS / Celeonet SAS / Celeonet)
+[~] Source IP: 95.128.72.33
+  - ASN: AS31178 Celeonet SAS
+  - ISP: Celeonet SAS
+  - ORG: Celeonet
+[~] Notes:
+ - Referred URLs [1]:
+   - [1] URL: https://annetforyou.blogspot.sk -> blogspot.l.googleusercontent.com 
+ - Source Email Domain = cl-primo.celeo.net
+  - ASN: AS31178 Celeonet SAS
+  - ISP: Celeonet SAS
+  - ORG: Celeonet
+ - Source Email Server Domain = celeonet.fr
+  - ASN: AS31178 Celeonet SAS
+  - ISP: Celeonet SAS
+  - ORG: Celeonet SAS
