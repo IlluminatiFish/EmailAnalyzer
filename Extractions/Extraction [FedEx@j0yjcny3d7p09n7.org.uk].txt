@@ -1,0 +1,20 @@
+=== Extraction Information ===
+[~] Source Email: FedEx@j0yjcny3d7p09n7.org.uk
+[~] Source Email Server: srv4.cloudapp.azure.com
+ - ASN: None
+ - ISP: None
+ - ORG: None
+[~] Mailer: None
+[~] Return Email: emailbro@qq.com
+[~] Email Traceroute [1 hop(s)]:
+ [SOURCE MAIL SERVER] 1: 52.143.175.91 - (AS8075 Microsoft Corporation / Microsoft Corporation / Microsoft Azure Cloud (francecentral))
+[~] Notes:
+ - Referred URLs [0]:
+ - Source Email Domain = j0yjcny3d7p09n7.org.uk
+  - ASN: None
+  - ISP: None
+  - ORG: None
+ - Source Email Server Domain = cloudapp.azure.com
+  - ASN: None
+  - ISP: None
+  - ORG: None
