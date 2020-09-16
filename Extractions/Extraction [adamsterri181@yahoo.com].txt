@@ -1,0 +1,20 @@
+=== Extraction Information ===
+[~] Source Email: adamsterri181@yahoo.com
+[~] Source Email Server: sonic301-21.consmr.mail.ir2.yahoo.com
+ - ASN: AS34010 Yahoo! UK Services Limited
+ - ISP: Yahoo-EU
+ - ORG: None
+[~] Mailer: WebService/1.1.16583 YMailNodin Mozilla/5.0 (Windows NT 6.1; WOW64; rv:11.0) Gecko/20100101 Firefox/11.0 CometBird/11.0
+[~] Return Email: westernuion62@gmail.com
+[~] Email Traceroute [1 hop(s)]:
+ [SOURCE MAIL SERVER] 1: 77.238.176.98 - (AS34010 Yahoo! UK Services Limited / Yahoo-EU / None)
+[~] Notes:
+ - Referred URLs [0]:
+ - Source Email Domain = yahoo.com
+  - ASN: AS26101 Oath Holdings Inc.
+  - ISP: Oath Holdings Inc.
+  - ORG: Oath Holdings Inc
+ - Source Email Server Domain = consmr.mail.ir2.yahoo.com
+  - ASN: None
+  - ISP: None
+  - ORG: None
