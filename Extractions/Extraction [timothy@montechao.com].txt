@@ -1,0 +1,23 @@
+[~] Date:  29/10/2020 19:04:38
+[~] Source Email: timothy@montechao.com
+
+[~] Mailer: None
+[~] Return To Email: None
+[~] Return Path Email: timothy@montechao.com
+[~] Sender Email: timothy@montechao.com
+
+[~] Email Traceroute [1 hop(s)]:
+ - [MSA] gromala5.mailenvio10.co.uk [IP: 81.163.28.194] - (AS50340 OOO Network of data-centers Selectel / OOO "Network of data-centers "Selectel" / Selectel)
+
+[~] Notes:
+ - Source Email Domain = montechao.com (IP: None)
+  - ASN: None
+  - ISP: None
+  - ORG: None
+
+[+] Decoding email body using base64 encoding..
+[+] Searching for URLs in the email body
+[+] URLs found in body (2)
+
+[+] Found URL in body: http://montechao.com/goto/25882096226/639324/aHR0cDovL3lhLXJvZGl0ZWwuY29t
+    [-] Connection error to URL
