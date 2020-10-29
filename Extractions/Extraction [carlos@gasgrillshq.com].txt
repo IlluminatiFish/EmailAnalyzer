@@ -1,0 +1,20 @@
+[~] Date:  29/10/2020 19:09:09
+[~] Source Email: carlos@gasgrillshq.com
+
+[~] Mailer: None
+[~] Return To Email: None
+[~] Return Path Email: carlos@gasgrillshq.com
+[~] Sender Email: carlos@gasgrillshq.com
+
+[~] Email Traceroute [1 hop(s)]:
+ - [MSA] None [IP: 77.223.98.187] - (AS50340 OOO Network of data-centers Selectel / None / None)
+
+[~] Notes:
+ - Source Email Domain = gasgrillshq.com (IP: 77.223.98.187)
+  - ASN: AS50340 OOO Network of data-centers Selectel
+  - ISP: Selectel
+  - ORG: None
+
+[+] Decoding email body using base64 encoding..
+[+] Searching for URLs in the email body
+[-] No URLs were found in the body of the email!
