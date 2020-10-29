@@ -1,0 +1,34 @@
+[~] Date:  29/10/2020 19:18:22
+[~] Source Email: admin@hkasiadirect.com
+
+[~] Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.4]
+[~] Return To Email: None
+[~] Return Path Email: sweslm@server71.web-hosting.com
+[~] Sender Email: <sweslm@server71.web-hosting.com>
+
+[!] Forged "from" field (Source email & Return path mismatch)
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [1 hop(s)]:
+ - [MSA] server71-5.web-hosting.com [IP: 198.54.116.155] - (AS22612 Namecheap, Inc. / Namecheap, Inc. / Namecheap, Inc.)
+
+[~] Notes:
+ - Source Email Domain = hkasiadirect.com (IP: 198.54.116.155)
+  - ASN: AS22612 Namecheap, Inc.
+  - ISP: Namecheap, Inc.
+  - ORG: Namecheap, Inc.
+
+[+] Decoding email body using 8bit encoding..
+[+] Searching for URLs in the email body
+[+] URLs found in body (2)
+
+[+] Found URL in body: http://hkasiadirect.com/
+[+] Attempting to gather redirect chain data mode: TRUE
+[-] No request history found, no redirects
+
+[+] Found URL in body: https://todaynosleep.blogspot.tw
+[+] Attempting to gather redirect chain data mode: TRUE
+  [+] Found 1 redirects in chain
+    - [Redirect: 1] [IP: 216.58.207.225] [Status: 302] - https://todaynosleep.blogspot.tw/
+  [Effective URL] [IP: 216.58.207.225] [Status: 200] - https://todaynosleep.blogspot.com/
