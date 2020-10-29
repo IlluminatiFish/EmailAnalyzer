@@ -1,0 +1,21 @@
+[~] Date:  29/10/2020 19:11:37
+[~] Source Email: delivery257agent@gmail.com
+
+[~] Mailer: None
+[~] Return To Email: jpmorchasebank257@gmail.com
+[~] Return Path Email: delivery257agent@gmail.com
+[~] Sender Email: None
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [1 hop(s)]:
+ - [MSA] mail-sor-f65.google.com [IP: 209.85.220.65] - (AS15169 Google LLC / Google LLC / Google LLC)
+
+[~] Notes:
+ - Source Email Domain = gmail.com (IP: 216.58.211.133)
+  - ASN: AS15169 Google LLC
+  - ISP: Google LLC
+  - ORG: Google LLC
+
+[+] Searching for URLs in the email body
+[-] No URLs were found in the body of the email!
