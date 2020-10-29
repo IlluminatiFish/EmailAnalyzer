@@ -1,0 +1,28 @@
+[~] Source Email: sophia@jaysjapan.com
+
+[~] Mailer: None
+[~] Return To Email: None
+[~] Return Path Email: sophia@jaysjapan.com
+[~] Sender Email: sophia@jaysjapan.com
+
+[~] Email Traceroute [1 hop(s)]:
+ - [MSA] amdara.ru [IP: 80.249.149.113] - (AS50340 OOO Network of data-centers Selectel / None / Selectel)
+
+[~] Notes:
+ - Source Email Domain = jaysjapan.com (IP: 80.249.149.113)
+  - ASN: AS50340 OOO Network of data-centers Selectel
+  - ISP: OOO "Network of data-centers "Selectel"
+  - ORG: Selectel
+
+[+] Decoding email body using base64 encoding..
+[+] Searching for URLs in the email body
+[+] URLs found in body (2)
+
+[+] Found URL in body: http://jaysjapan.com/goto/25911691698/640477/aHR0cDovL3lhLXJvZGl0ZWwuY29t
+[+] Attempting to gather redirect chain data mode: TRUE
+  [+] Found 4 redirects in chain
+    - [Redirect: 1] [IP: 80.249.149.113] [Status: 302] - http://jaysjapan.com/goto/25911691698/640477/aHR0cDovL3lhLXJvZGl0ZWwuY29t
+    - [Redirect: 2] [IP: 77.222.40.109] [Status: 302] - http://ya-roditel.com
+    - [Redirect: 3] [IP: 213.227.132.161] [Status: 302] - http://go.ultratracks1.xyz/sl?id=5f5f82be1a6e4b187922520a&pid=146
+    - [Redirect: 4] [IP: 213.227.132.161] [Status: 302] - http://go.ultratracks1.xyz/sl?id=5f60e5c9127bd6bcbd271f15&pid=146
+  [Effective URL] [IP: 104.24.109.87] [Status: 200] - http://bigcitydating.club/?u=rdcpae3&o=9qyg34e&m=1&t=146&cid=5f9b1d10f397bf00019d0071
