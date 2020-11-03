@@ -17,7 +17,7 @@
 
 [+] Decoding email body using base64 encoding..
 [+] Searching for URLs in the email body
-[+] URLs found in body (2)
+[+] URLs found in body (1)
 
 [+] Found URL in body: http://montechao.com/goto/25882096226/639324/aHR0cDovL3lhLXJvZGl0ZWwuY29t
     [-] Connection error to URL
