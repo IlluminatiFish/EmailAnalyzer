@@ -1,0 +1,36 @@
+[~] Date:  03/11/2020 22:49:17
+[~] Source Email: it@deen.ru
+
+[~] Mailer: PHPMailer [version 1.73]
+[~] Return To Email: None
+[~] Return Path Email: postmaster@h393098.r01host.ru
+[~] Sender Email: None
+
+[!] Forged "from" field (Source email & Return path mismatch)
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [3 hop(s)]:
+ - [MSA] std-carp5-http.nic.ru [IP: 195.208.1.105] - (AS48287 JSC RU-CENTER / None / JSC Ru-center)
+ - [MTA-1] wout1101.mail.hosting.nic.ru [IP: 31.177.73.226] - (AS48287 JSC RU-CENTER / JSC "RU-CENTER" / Center Network)
+ - [MDA] web-relay.nicmail.ru [IP: 178.210.92.252] - (AS48287 JSC RU-CENTER / JSC "RU-CENTER" / JSC Ru-center)
+
+[~] Notes:
+ - Source Email Domain = deen.ru (IP: None)
+  - ASN: None
+  - ISP: None
+  - ORG: None
+
+[+] Decoding email body using 8bit encoding..
+[+] Searching for URLs in the email body
+[+] URLs found in body (2)
+
+[+] Found URL in body: http://cvetolove.ru/
+[+] Attempting to gather redirect chain data mode: TRUE
+[-] No request history found, no redirects
+
+[+] Found URL in body: https://todaynosleep.blogspot.nl
+[+] Attempting to gather redirect chain data mode: TRUE
+  [+] Found 1 redirects in chain
+    - [Redirect: 1] [IP: 172.217.22.161] [Status: 302] - https://todaynosleep.blogspot.nl/
+  [Effective URL] [IP: 172.217.22.161] [Status: 200] - https://todaynosleep.blogspot.com/
