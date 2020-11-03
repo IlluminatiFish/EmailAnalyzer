@@ -1,0 +1,23 @@
+[~] Date:  03/11/2020 21:02:41
+[~] Source Email: edwin_dizon66@yahoo.com
+
+[~] Mailer: WebService/1.1.16868 YMailNodin Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+[~] Return To Email: mrahmedyaki685@gmail.com
+[~] Return Path Email: edwin_dizon66@yahoo.com
+[~] Sender Email: None
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [2 hop(s)]:
+ - [MSA] e2-ha.ycpi.seb.yahoo.com [IP: 188.125.94.206] - (AS10310 Oath Holdings Inc. / Yahoo-EU / None)
+ - [MDA] sonic313-13.consmr.mail.bf2.yahoo.com [IP: 74.6.133.123] - (AS26101 Oath Holdings Inc. / Oath Holdings Inc. / Oath Holdings Inc)
+
+[~] Notes:
+ - Source Email Domain = yahoo.com (IP: 74.6.143.25)
+  - ASN: AS26101 Oath Holdings Inc.
+  - ISP: Oath Holdings Inc.
+  - ORG: Oath Holdings Inc
+
+[+] Decoding email body using quoted-printable encoding..
+[+] Searching for URLs in the email body
+[-] No URLs were found in the body of the email!
