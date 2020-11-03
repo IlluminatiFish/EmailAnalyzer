@@ -1,0 +1,31 @@
+[~] Date:  03/11/2020 22:52:59
+[~] Source Email: null
+
+[~] Mailer: PHP/5.6.40
+[~] Return To Email: Fostorodst Fostorodst <null>
+[~] Return Path Email: mtd@ss4.ich-6.com
+[~] Sender Email: None
+
+[!] Forged "from" field (Source email & Return path mismatch)
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [2 hop(s)]:
+ - [MUA] None [IP: 5.188.210.63] - (AS34665 Petersburg Internet Network ltd. / Bashilov Jurij Alekseevich / PIN DC)
+ - [MSA] ss4.ich-6.com [IP: 131.153.31.98] - (AS11572 PhoenixNAP LLC / Secured Servers LLC / PNAP-ATL0)
+ - [MDA] ss4-2.ich-6.com [IP: 131.153.31.100] - (AS11572 PhoenixNAP LLC / Secured Servers LLC / PNAP-ATL0)
+
+[~] Notes:
+ - Source Email Domain = gmail.com (IP: 172.217.21.133)
+  - ASN: AS15169 Google LLC
+  - ISP: Google LLC
+  - ORG: Google LLC
+
+[+] Searching for URLs in the email body
+[+] URLs found in body (1)
+
+[+] Found URL in body: https://todaynosleep.blogspot.se
+[+] Attempting to gather redirect chain data mode: TRUE
+  [+] Found 1 redirects in chain
+    - [Redirect: 1] [IP: 172.217.22.161] [Status: 302] - https://todaynosleep.blogspot.se/
+  [Effective URL] [IP: 172.217.22.161] [Status: 200] - https://todaynosleep.blogspot.com/
