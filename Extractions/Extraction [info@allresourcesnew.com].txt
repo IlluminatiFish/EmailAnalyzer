@@ -1,0 +1,22 @@
+[~] Date:  03/11/2020 19:53:53
+[~] Source Email: info@allresourcesnew.com
+
+[~] Mailer: PHPMailer 5.2.23 (https://github.com/PHPMailer/PHPMailer)
+[~] Return To Email: None
+[~] Return Path Email: info@allresourcesnew.com
+[~] Sender Email: None
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [1 hop(s)]:
+ - [MSA] edc0.allresourcesnew.com [IP: 151.80.220.102] - (AS16276 OVH SAS / OVH SAS / HostStage)
+
+[~] Notes:
+ - Source Email Domain = allresourcesnew.com (IP: 151.80.220.102)
+  - ASN: AS16276 OVH SAS
+  - ISP: OVH SAS
+  - ORG: HostStage
+
+[+] Decoding email body using base64 encoding..
+[+] Searching for URLs in the email body
+[-] No URLs were found in the body of the email!
