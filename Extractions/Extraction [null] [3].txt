@@ -10,7 +10,7 @@
 
 [!] Spoofed "from" field (Source email & Sender mismatch)
 
-[~] Email Traceroute [2 hop(s)]:
+[~] Email Traceroute [3 hop(s)]:
  - [MUA] None [IP: 5.188.210.63] - (AS34665 Petersburg Internet Network ltd. / Bashilov Jurij Alekseevich / PIN DC)
  - [MSA] ss4.ich-6.com [IP: 131.153.31.98] - (AS11572 PhoenixNAP LLC / Secured Servers LLC / PNAP-ATL0)
  - [MDA] ss4-2.ich-6.com [IP: 131.153.31.100] - (AS11572 PhoenixNAP LLC / Secured Servers LLC / PNAP-ATL0)
