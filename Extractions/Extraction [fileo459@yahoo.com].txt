@@ -1,0 +1,23 @@
+[~] Date:  03/11/2020 20:37:24
+[~] Source Email: fileo459@yahoo.com
+
+[~] Mailer: WebService/1.1.16868 YMailNodin Mozilla/5.0 (Windows NT 6.2; WOW64; rv:11.0) Gecko/20100101 Firefox/11.0 CometBird/11.0
+[~] Return To Email: mgramwiretransfer1121@outlook.com
+[~] Return Path Email: fileo459@yahoo.com
+[~] Sender Email: None
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [2 hop(s)]:
+ - [MSA] e1-ha.ycpi.seb.yahoo.com [IP: 188.125.94.204] - (AS10310 Oath Holdings Inc. / Yahoo-EU / None)
+ - [MDA] sonic305-19.consmr.mail.ir2.yahoo.com [IP: 77.238.177.81] - (AS34010 Yahoo! UK Services Limited / Yahoo-EU / None)
+
+[~] Notes:
+ - Source Email Domain = yahoo.com (IP: 74.6.143.25)
+  - ASN: AS26101 Oath Holdings Inc.
+  - ISP: Oath Holdings Inc.
+  - ORG: Oath Holdings Inc
+
+[+] Decoding email body using 7bit encoding..
+[+] Searching for URLs in the email body
+[-] No URLs were found in the body of the email!
