@@ -1,0 +1,25 @@
+[~] Date:  03/11/2020 20:58:01
+[~] Source Email: antonia.piccirillo@regione.campania.it
+
+[~] Mailer: None
+[~] Return To Email: None
+[~] Return Path Email: prvs=155895962e=antonia.piccirillo@regione.campania.it
+[~] Sender Email: None
+
+[!] Forged "from" field (Source email & Return path mismatch)
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [2 hop(s)]:
+ - [MSA] None [IP: 109.115.186.22] - (AS30722 Vodafone Italia S.p.A. / None / Vodafone)
+ - [MDA] mail-sophos-1.regione.campania.it [IP: 109.115.186.12] - (AS30722 Vodafone Italia S.p.A. / Vodafone Italia S.p.A. / Vodafone)
+
+[~] Notes:
+ - Source Email Domain = regione.campania.it (IP: 109.115.186.20)
+  - ASN: AS30722 Vodafone Italia S.p.A.
+  - ISP: Vodafone Italia S.p.A.
+  - ORG: Vodafone
+
+[+] Decoding email body using quoted-printable encoding..
+[+] Searching for URLs in the email body
+[-] No URLs were found in the body of the email!
