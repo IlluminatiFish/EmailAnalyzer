@@ -1,0 +1,22 @@
+[~] Date:  03/11/2020 20:22:42
+[~] Source Email: moneygramdirector227@gmail.com
+
+[~] Mailer: None
+[~] Return To Email: citibankoffice159@gmail.com
+[~] Return Path Email: moneygramdirector227@gmail.com
+[~] Sender Email: None
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [1 hop(s)]:
+ - [MSA] mail-sor-f65.google.com [IP: 209.85.220.65] - (AS15169 Google LLC / Google LLC / Google LLC)
+
+[~] Notes:
+ - Source Email Domain = gmail.com (IP: 172.217.21.133)
+  - ASN: AS15169 Google LLC
+  - ISP: Google LLC
+  - ORG: Google LLC
+
+[+] Decoding email body using quoted-printable encoding..
+[+] Searching for URLs in the email body
+[-] No URLs were found in the body of the email!
