@@ -1,0 +1,34 @@
+[~] Date:  03/11/2020 23:03:22
+[~] Source Email: info@fliko.ru
+
+[~] Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.4]
+[~] Return To Email: None
+[~] Return Path Email: avtoriteru@vh277.sweb.ru
+[~] Sender Email: None
+
+[!] Forged "from" field (Source email & Return path mismatch)
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [1 hop(s)]:
+ - [MSA] vh277.sweb.ru [IP: 77.222.40.66] - (AS44112 SpaceWeb Ltd / SpaceWeb Hosting provider / SpaceWeb CJSC)
+
+[~] Notes:
+ - Source Email Domain = fliko.ru (IP: 46.36.222.182)
+  - ASN: AS198068 P.A.G.M. OU
+  - ISP: PAGM network
+  - ORG: Hosting Services
+
+[+] Decoding email body using 8bit encoding..
+[+] Searching for URLs in the email body
+[+] URLs found in body (2)
+
+[+] Found URL in body: http://avtoritet-ocenka.ru/
+[+] Attempting to gather redirect chain data mode: TRUE
+[-] No request history found, no redirects
+
+[+] Found URL in body: http://supcrypinv.blogspot.fi/?utm_source=cryptoburz&utm_medium=null
+[+] Attempting to gather redirect chain data mode: TRUE
+  [+] Found 1 redirects in chain
+    - [Redirect: 1] [IP: 172.217.22.161] [Status: 302] - http://supcrypinv.blogspot.fi/?utm_source=cryptoburz&utm_medium=null
+  [Effective URL] [IP: 172.217.22.161] [Status: 200] - http://supcrypinv.blogspot.com/?utm_source=cryptoburz&utm_medium=null
