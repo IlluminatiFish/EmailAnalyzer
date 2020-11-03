@@ -1,0 +1,27 @@
+[~] Date:  03/11/2020 20:05:54
+[~] Source Email: KChristison@environment.gov.za
+
+[~] Mailer: None
+[~] Return To Email: "info@capitaltrustfinanceltd.com" <info@capitaltrustfinanceltd.com>
+[~] Return Path Email: kchristison@environment.gov.za
+[~] Sender Email: None
+
+[!] Forged "from" field (Source email & Return path mismatch)
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [3 hop(s)]:
+ - [MUA] None [IP: 196.207.151.92] - (AS15399 Wananchi Group (Kenya) Limited / Wananchi Group (K) LTD / Wananchi Group Kenya Limited)
+ - [MSA] 164.151.130.4.static.gov.za [IP: 164.151.130.4] - (AS37130 SITA Pty LTD / SITA Pty LTD / Central Computer Services)
+ - [MDA] za-smtp-delivery-201.mimecast.co.za [IP: 41.74.205.201] - (AS37235 Mimecast South Africa / Mimecast South Africa / Mimecast)
+
+[~] Notes:
+ - Source Email Domain = environment.gov.za (IP: None)
+  - ASN: None
+  - ISP: None
+  - ORG: None
+
+[+] Decoding email body using quoted-printable encoding..
+[+] Searching for URLs in the email body
+[-] No URLs were found in the body of the email!
+
