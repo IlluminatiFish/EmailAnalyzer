@@ -1,0 +1,23 @@
+[~] Date:  03/11/2020 20:08:23
+[~] Source Email: y2273@yuanhosp.com.tw
+
+[~] Mailer: Zimbra 8.6.0_GA_1242 (zclient/8.6.0_GA_1242)
+[~] Return To Email: emmanuelfranco021@hotmail.com
+[~] Return Path Email: y2273@yuanhosp.com.tw
+[~] Sender Email: None
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [2 hop(s)]:
+ - [MUA] None [IP: 104.243.213.158] - (AS9009 M247 Ltd / CloudIP LLC / M247)
+ - [MSA] mail2.yuanhosp.com.tw [IP: 210.61.205.15] - (AS3462 Data Communication Business Group / Chunghwa Telecom Co., Ltd. / Chunghwa Telecom Co. Ltd.)
+
+[~] Notes:
+ - Source Email Domain = yuanhosp.com.tw (IP: None)
+  - ASN: None
+  - ISP: None
+  - ORG: None
+
+[+] Decoding email body using quoted-printable encoding..
+[+] Searching for URLs in the email body
+[-] No URLs were found in the body of the email!
