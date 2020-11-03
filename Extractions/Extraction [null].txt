@@ -1,0 +1,30 @@
+[~] Date:  03/11/2020 20:26:33
+[~] Source Email: N/A
+
+[~] Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+[~] Return To Email: None
+[~] Return Path Email: apache@fastbooking.com
+[~] Sender Email: None
+
+[!] Forged "from" field (Source email & Return path mismatch)
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [2 hop(s)]:
+ - [MSA] ec2-52-30-204-154.eu-west-1.compute.amazonaws.com [IP: 52.30.204.154] - (AS16509 Amazon.com, Inc. / Amazon Technologies Inc. / AWS EC2 (eu-west-1))
+ - [MDA] mail.fastbooking.ch [IP: 217.72.242.236] - (AS24778 Datapipe Europe Ltd / DATAPIPE-UK London / None)
+
+[~] Notes:
+ - Source Email Domain = gmail.com (IP: 172.217.21.133)
+  - ASN: AS15169 Google LLC
+  - ISP: Google LLC
+  - ORG: Google LLC
+
+[+] Searching for URLs in the email body
+[+] URLs found in body (1)
+
+[+] Found URL in body: https://marryonlinetoday.blogspot.ie
+[+] Attempting to gather redirect chain data mode: TRUE
+  [+] Found 1 redirects in chain
+    - [Redirect: 1] [IP: 172.217.22.161] [Status: 302] - https://marryonlinetoday.blogspot.ie/
+  [Effective URL] [IP: 172.217.22.161] [Status: 200] - https://marryonlinetoday.blogspot.com/
