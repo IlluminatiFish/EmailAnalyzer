@@ -1,0 +1,30 @@
+[~] Date:  03/11/2020 21:03:53
+[~] Source Email: marta.dabrowska@gizycko.tv
+
+[~] Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+[~] Return To Email: None
+[~] Return Path Email: gizycko@gizycko.home.pl
+[~] Sender Email: None
+
+[!] Forged "from" field (Source email & Return path mismatch)
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [1 hop(s)]:
+ - [MSA] cloudserver003240.home.pl [IP: 212.85.108.192] - (AS12824 home.pl S.A. / home.pl network / home.pl S.A.)
+
+[~] Notes:
+ - Source Email Domain = gizycko.tv (IP: 212.85.108.192)
+  - ASN: AS12824 home.pl S.A.
+  - ISP: home.pl network
+  - ORG: home.pl S.A.
+
+[+] Decoding email body using 8bit encoding..
+[+] Searching for URLs in the email body
+[+] URLs found in body (2)
+
+[+] Found URL in body: https://todaynosleep.blogspot.fr
+[+] Attempting to gather redirect chain data mode: TRUE
+  [+] Found 1 redirects in chain
+    - [Redirect: 1] [IP: 172.217.22.161] [Status: 302] - https://todaynosleep.blogspot.fr/
+  [Effective URL] [IP: 172.217.22.161] [Status: 200] - https://todaynosleep.blogspot.com/
