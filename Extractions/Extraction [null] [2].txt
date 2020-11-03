@@ -1,0 +1,36 @@
+[~] Date:  03/11/2020 20:29:18
+[~] Source Email: null
+
+[~] Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+[~] Return To Email: None
+[~] Return Path Email: ttb@root.technokraft.net
+[~] Sender Email: None
+
+[!] Forged "from" field (Source email & Return path mismatch)
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [1 hop(s)]:
+ - [MSA] 209-133-217-249.static.hvvc.us [IP: 209.133.217.249] - (AS29802 HIVELOCITY, Inc. / HIVELOCITY, Inc. / NOC4Hosts Inc)
+
+[~] Notes:
+ - Source Email Domain = gmail.com (IP: 172.217.21.133)
+  - ASN: AS15169 Google LLC
+  - ISP: Google LLC
+  - ORG: Google LLC
+
+[+] Decoding email body using 8bit encoding..
+[+] Searching for URLs in the email body
+[+] URLs found in body (2)
+
+[+] Found URL in body: https://marryonlinetoday.blogspot.be
+[+] Attempting to gather redirect chain data mode: TRUE
+  [+] Found 1 redirects in chain
+    - [Redirect: 1] [IP: 172.217.22.161] [Status: 302] - https://marryonlinetoday.blogspot.be/
+  [Effective URL] [IP: 172.217.22.161] [Status: 200] - https://marryonlinetoday.blogspot.com/
+
+[+] Found URL in body: http://themes.muffingroup.com/betheme
+[+] Attempting to gather redirect chain data mode: TRUE
+  [+] Found 1 redirects in chain
+    - [Redirect: 1] [IP: 172.67.69.155] [Status: 301] - http://themes.muffingroup.com/betheme
+  [Effective URL] [IP: 172.67.69.155] [Status: 404] - https://themes.muffingroup.com/betheme
