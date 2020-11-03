@@ -1,0 +1,23 @@
+[~] Date:  03/11/2020 20:10:36
+[~] Source Email: serviceqss@yahoo.com
+
+[~] Mailer: WebService/1.1.16795 YMailNodin Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+[~] Return To Email: uspscompany320@gmail.com
+[~] Return Path Email: serviceqss@yahoo.com
+[~] Sender Email: None
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [2 hop(s)]:
+ - [MSA] e1-ha.ycpi.seb.yahoo.com [IP: 188.125.94.204] - (AS10310 Oath Holdings Inc. / Yahoo-EU / None)
+ - [MDA] sonic304-21.consmr.mail.ne1.yahoo.com [IP: 66.163.191.147] - (AS36646 Oath Holdings Inc. / Oath Holdings Inc. / Oath Holdings Inc)
+
+[~] Notes:
+ - Source Email Domain = yahoo.com (IP: 98.137.11.163)
+  - ASN: AS36647 Oath Holdings Inc.
+  - ISP: Oath Holdings Inc.
+  - ORG: Oath Holdings Inc
+
+[+] Decoding email body using 7bit encoding..
+[+] Searching for URLs in the email body
+[-] No URLs were found in the body of the email!
