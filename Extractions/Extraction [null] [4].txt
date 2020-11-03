@@ -1,0 +1,37 @@
+[~] Date:  03/11/2020 22:58:02
+[~] Source Email: null
+
+[~] Mailer: Drupal Webform (PHP/5.5.9-1ubuntu4.22)
+[~] Return To Email: None
+[~] Return Path Email: language@startravel.ru
+[~] Sender Email: language@startravel.ru
+
+[!] Forged "from" field (Source email & Return path mismatch)
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [4 hop(s)]:
+ - [MUA] None [IP: 5.188.210.63] - (AS34665 Petersburg Internet Network ltd. / Bashilov Jurij Alekseevich / PIN DC)
+ - [MSA] hosted-by.ihc.ru [IP: 185.22.234.43] - (AS203226 Internet-Hosting Ltd / None / IHC)
+ - [MTA-1] hosted-by.ihc.ru [IP: 185.22.235.10] - (AS203226 Internet-Hosting Ltd / Internet-Hosting Ltd / IHC)
+ - [MDA] mx1.startravel.ru [IP: 213.33.167.190] - (AS3216 PJSC Vimpelcom / EDN Sovintel / None)
+
+[~] Notes:
+ - Source Email Domain = gmail.com (IP: 172.217.21.133)
+  - ASN: AS15169 Google LLC
+  - ISP: Google LLC
+  - ORG: Google LLC
+
+[+] Decoding email body using quoted-printable encoding..
+[+] Searching for URLs in the email body
+[+] URLs found in body (2)
+
+[+] Found URL in body: http://vvo.startravel.ru/node/66/submission/54042
+[+] Attempting to gather redirect chain data mode: TRUE
+[-] No request history found, no redirects
+
+[+] Found URL in body: http://popscams.blogspot.it/?utm_source=cryptoburz&utm_medium=justynajohnson@hotmail.com
+[+] Attempting to gather redirect chain data mode: TRUE
+  [+] Found 1 redirects in chain
+    - [Redirect: 1] [IP: 172.217.22.161] [Status: 302] - http://popscams.blogspot.it/?utm_source=cryptoburz&utm_medium=justynajohnson@hotmail.com
+  [Effective URL] [IP: 172.217.22.161] [Status: 200] - http://popscams.blogspot.com/?utm_source=cryptoburz&utm_medium=justynajohnson@hotmail.com
