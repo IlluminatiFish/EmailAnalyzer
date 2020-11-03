@@ -1,0 +1,22 @@
+[~] Date:  03/11/2020 20:48:28
+[~] Source Email: cegidrussia@cegid.com
+
+[~] Mailer: Microsoft CDO for Windows 2000
+[~] Return To Email: None
+[~] Return Path Email: cegidrussia@cegid.com
+[~] Sender Email: None
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [1 hop(s)]:
+ - [MSA] web-ripe2.cegid.com [IP: 91.205.116.251] - (AS47820 CEGID S.A. / Cegid SAAS Factory / None)
+
+[~] Notes:
+ - Source Email Domain = cegid.com (IP: 40.114.173.200)
+  - ASN: AS8075 Microsoft Corporation
+  - ISP: Microsoft Corporation
+  - ORG: Microsoft Azure Cloud (westeurope)
+
+[+] Decoding email body using 8bit encoding..
+[+] Searching for URLs in the email body
+[-] No URLs were found in the body of the email!
