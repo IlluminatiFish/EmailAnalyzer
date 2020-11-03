@@ -1,0 +1,32 @@
+[~] Date:  03/11/2020 20:38:54
+[~] Source Email: miminfo@mail.natm.ru
+
+[~] Mailer: PHPMailer 5.2.16 (https://github.com/PHPMailer/PHPMailer)
+[~] Return To Email: Fostorodst <null>
+[~] Return Path Email: miminfo@mail.natm.ru
+[~] Sender Email: None
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [1 hop(s)]:
+ - [MSA] server127.hosting.reg.ru [IP: 37.140.192.229] - (AS197695 Domain names registrar REG.RU, Ltd / Reg.Ru / None)
+
+[~] Notes:
+ - Source Email Domain = mail.natm.ru (IP: 213.148.160.21)
+  - ASN: AS16301 PJSC Rostelecom
+  - ISP: DATACOM
+  - ORG: None
+
+[+] Decoding email body using 8bit encoding..
+[+] Searching for URLs in the email body
+[+] URLs found in body (2)
+
+[+] Found URL in body: http://stosadko.ru/
+[+] Attempting to gather redirect chain data mode: TRUE
+[-] No request history found, no redirects
+
+[+] Found URL in body: https://todaynosleep.blogspot.sk
+[+] Attempting to gather redirect chain data mode: TRUE
+  [+] Found 1 redirects in chain
+    - [Redirect: 1] [IP: 172.217.22.161] [Status: 302] - https://todaynosleep.blogspot.sk/
+  [Effective URL] [IP: 172.217.22.161] [Status: 200] - https://todaynosleep.blogspot.com/
