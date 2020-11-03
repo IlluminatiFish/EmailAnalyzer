@@ -1,0 +1,22 @@
+[~] Date:  03/11/2020 20:19:50
+[~] Source Email: znz05@os.chernigiv-rada.gov.ua
+
+[~] Mailer: Zimbra 8.8.8_GA_3025 (zclient/8.8.8_GA_3025)
+[~] Return To Email: Mavis Wanczyk <maviswanczyk1987@gmail.com>
+[~] Return Path Email: znz05@os.chernigiv-rada.gov.ua
+[~] Sender Email: None
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [1 hop(s)]:
+ - [MSA] mailcow.chernigiv-rada.gov.ua [IP: 195.60.174.57] - (AS34814 Osnova-Internet LLC / Osnova-Internet LLC / Osnova-Internet LLC)
+
+[~] Notes:
+ - Source Email Domain = os.chernigiv-rada.gov.ua (IP: 195.60.174.57)
+  - ASN: AS34814 Osnova-Internet LLC
+  - ISP: Osnova-Internet LLC
+  - ORG: Osnova-Internet LLC
+
+[+] Decoding email body using quoted-printable encoding..
+[+] Searching for URLs in the email body
+[-] No URLs were found in the body of the email!
