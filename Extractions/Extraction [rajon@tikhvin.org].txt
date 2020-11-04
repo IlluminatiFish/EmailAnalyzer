@@ -1,0 +1,26 @@
+[~] Date:  04/11/2020 18:06:08
+[~] Source Email: rajon@tikhvin.org
+
+[~] Mailer: None
+[~] Return To Email: rajon@tikhvin.org
+[~] Return Path Email: rajon@tikhvin.org
+[~] Sender Email: None
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [2 hop(s)]:
+ - [MSA] myt5-ca5ec8faf378.qloud-c.yandex.net [IP: 2a02:6b8:c12:2514:0:640:ca5e:c8fa] - (AS13238 YANDEX LLC / None / Yandex LLC)
+ - [MDA] forward105o.mail.yandex.net [IP: 37.140.190.183] - (AS13238 YANDEX LLC / Yandex enterprise network / Yandex LLC)
+
+[~] Notes:
+ - Source Email Domain = tikhvin.org (IP: 172.67.203.229)
+  - ASN: AS13335 Cloudflare, Inc.
+  - ISP: Cloudflare, Inc.
+  - ORG: Cloudflare, Inc.
+
+[+] Decoding email body using 8bit encoding..
+[+] Searching for URLs in the email body
+[+] URLs found in body (1)
+
+[+] Found URL in body: https://todaynosleep.blogspot.in
+    [-] Connection error to URL
