@@ -1,0 +1,34 @@
+[~] Date:  04/11/2020 17:52:31
+[~] Source Email: noreply@mint4me.de
+
+[~] Mailer: PHPMailer 6.1.6 (https://github.com/PHPMailer/PHPMailer)
+[~] Return To Email: zdi@kreis-mettmann.de
+[~] Return Path Email: ssh-719394-bit7@zimljansker.ispgateway.de
+[~] Sender Email: None
+
+[!] Forged "from" field (Source email & Return path mismatch)
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [1 hop(s)]:
+ - [MSA] zimljansker.ispgateway.de [IP: 134.119.45.174] - (AS8972 Host Europe GmbH / GD MASS Network / domainfactory GmbH)
+
+[~] Notes:
+ - Source Email Domain = mint4me.de (IP: 134.119.45.174)
+  - ASN: AS8972 Host Europe GmbH
+  - ISP: GD MASS Network
+  - ORG: domainfactory GmbH
+
+[+] Decoding email body using 8bit encoding..
+[+] Searching for URLs in the email body
+[+] URLs found in body (2)
+
+[+] Found URL in body: http://arielyouwait.blogspot.be/?utm_source=datburz&utm_medium=justynajohnson@hotmail.com
+[+] Attempting to gather redirect chain data mode: TRUE
+  [+] Found 1 redirects in chain
+    - [Redirect: 1] [IP: 216.58.212.193] [Status: 302] - http://arielyouwait.blogspot.be/?utm_source=datburz&utm_medium=justynajohnson@hotmail.com
+  [Effective URL] [IP: 216.58.212.193] [Status: 200] - http://arielyouwait.blogspot.com/?utm_source=datburz&utm_medium=justynajohnson@hotmail.com
+
+[+] Found URL in body: https://mint4me.de
+[+] Attempting to gather redirect chain data mode: TRUE
+[-] No request history found, no redirects
