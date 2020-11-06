@@ -1,0 +1,46 @@
+[~] Date:  06/11/2020 17:25:58
+[~] Source Email: k9102083@gmail.com
+
+[~] Mailer: None
+[~] Return To Email: k9102083@gmail.com
+[~] Return Path Email: 3lxelXwgJC14GfXWYWeZCI6EH.8KIFQOPUJ6GSZfCI6EH.8KI@trix.bounces.google.com
+[~] Sender Email: None
+
+[!] Forged "from" field (Source email & Return path mismatch)
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [2 hop(s)]:
+ - [MSA] lhr25s11-in-f14.1e100.net [IP: 216.58.210.46] - (AS15169 Google LLC / Google LLC / Google LLC)
+ - [MDA] mail-sor-f77.google.com [IP: 209.85.220.77] - (AS15169 Google LLC / Google LLC / Google LLC)
+
+[~] Notes:
+ - Source Email Domain = gmail.com (IP: 216.58.212.197)
+  - ASN: AS15169 Google LLC
+  - ISP: Google LLC
+  - ORG: Google LLC
+
+[+] Decoding email body using quoted-printable encoding..
+[+] Searching for URLs in the email body
+[+] URLs found in body (3)
+
+[+] Found URL in body: https://docs.google.com/forms/d/e/1FAIpQLSfqMI6vZHiXC8mUg-ckia=
+[+] Attempting to gather redirect chain data mode: TRUE
+  [+] Found 2 redirects in chain
+    - [Redirect: 1] [IP: 216.58.213.110] [Status: 302] - https://docs.google.com/forms/d/e/1FAIpQLSfqMI6vZHiXC8mUg-ckia=
+    - [Redirect: 2] [IP: 216.58.213.110] [Status: 302] - https://docs.google.com/forms/d/e/1FAIpQLSfqMI6vZHiXC8mUg-ckia=/
+  [Effective URL] [IP: 216.58.213.110] [Status: 404] - https://docs.google.com/forms/d/e/1FAIpQLSfqMI6vZHiXC8mUg-ckia=/edit
+  
+[+] Found URL in body: https://docs.google.com/forms/d/e/1FAIpQLSfqMI=
+[+] Attempting to gather redirect chain data mode: TRUE
+  [+] Found 2 redirects in chain
+    - [Redirect: 1] [IP: 216.58.213.110] [Status: 302] - https://docs.google.com/forms/d/e/1FAIpQLSfqMI=
+    - [Redirect: 2] [IP: 216.58.213.110] [Status: 302] - https://docs.google.com/forms/d/e/1FAIpQLSfqMI=/
+  [Effective URL] [IP: 216.58.213.110] [Status: 404] - https://docs.google.com/forms/d/e/1FAIpQLSfqMI=/edit
+
+[+] Found URL in body: https://docs.google.com/forms/d/e/1FAIpQLSfqMI6vZHiXC8mUg-ck=
+[+] Attempting to gather redirect chain data mode: TRUE
+  [+] Found 2 redirects in chain
+    - [Redirect: 1] [IP: 216.58.213.110] [Status: 302] - https://docs.google.com/forms/d/e/1FAIpQLSfqMI6vZHiXC8mUg-ck=
+    - [Redirect: 2] [IP: 216.58.213.110] [Status: 302] - https://docs.google.com/forms/d/e/1FAIpQLSfqMI6vZHiXC8mUg-ck=/
+  [Effective URL] [IP: 216.58.213.110] [Status: 404] - https://docs.google.com/forms/d/e/1FAIpQLSfqMI6vZHiXC8mUg-ck=/edit
