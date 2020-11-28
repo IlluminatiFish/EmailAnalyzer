@@ -1,0 +1,21 @@
+[~] Source Email: info@est.duquike.com
+
+[~] Mailer: None
+[~] Return To Email: None
+[~] Return Path Email: info@est.duquike.com
+[~] Sender Email: None
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [1 hop(s)]:
+ - [MSA] math.pi513.est.duquike.com [IP: 185.108.206.107] - (AS197518 Rackmarkt SL / Rackmarkt SL / Rongetoys)
+
+[~] Notes:
+ - Source Email Domain = est.duquike.com (IP: 217.116.16.235)
+  - ASN: AS16371 acens Technologies, S.L.
+  - ISP: acens Technologies
+  - ORG: Moneyback
+
+[+] Decoding email body using base64 encoding..
+[+] Searching for URLs in the email body
+[-] No URLs were found in the body of the email!
