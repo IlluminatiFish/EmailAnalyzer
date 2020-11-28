@@ -1,0 +1,27 @@
+[~] Date:  28/11/2020 17:42:12
+[~] Source Email: FedEx@xwn80iql9l8agbv.org.uk
+
+[~] Mailer: None
+[~] Return To Email: <emailbro@qq.com>
+[~] Return Path Email: angia2jsrmxdg51@gcore.lu
+[~] Sender Email: None
+
+[!] Compromised Email Used as forged "From" email
+[!] Possible domain compromise of xwn80iql9l8agbv.org.uk domain
+
+[!] Forged "from" field (Source email & Return path mismatch)
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [1 hop(s)]:
+ - [MSA] i13-86.shosting.systech.hu [IP: 185.105.3.222] - (AS199524 G-Core Labs S.A. / None / G-Core Labs)
+
+[~] Notes:
+ - Source Email Domain = xwn80iql9l8agbv.org.uk (IP: None)
+  - ASN: None
+  - ISP: None
+  - ORG: None
+
+[+] Decoding email body using 7bit encoding..
+[+] Searching for URLs in the email body
+[-] No URLs were found in the body of the email!
