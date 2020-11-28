@@ -1,0 +1,24 @@
+[~] Source Email: eevv69@yahoo.com
+
+[~] Mailer: WebService/1.1.17111 YMailNodin Mozilla/5.0 (Windows NT 6.1; rv:83.0) Gecko/20100101 Firefox/83.0
+[~] Return To Email: ubabakplcjulienkoffi1@outlook.com
+[~] Return Path Email: eevv69@yahoo.com
+[~] Sender Email: None
+
+[!] Compromised Email Used as forged "From" email
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [2 hop(s)]:
+ - [MSA] e2.ycpi.vip.lob.yahoo.com [IP: 87.248.114.12] - (AS43428 Yahoo! UK Services Limited / Yahoo-EU / None)
+ - [MDA] sonic309-15.consmr.mail.bf2.yahoo.com [IP: 74.6.129.125] - (AS26101 Oath Holdings Inc. / Oath Holdings Inc. / Oath Holdings Inc)
+
+[~] Notes:
+ - Source Email Domain = yahoo.com (IP: 74.6.143.26)
+  - ASN: AS36646 Oath Holdings Inc.
+  - ISP: Oath Holdings Inc.
+  - ORG: Oath Holdings Inc
+
+[+] Decoding email body using quoted-printable encoding..
+[+] Searching for URLs in the email body
+[-] No URLs were found in the body of the email!
