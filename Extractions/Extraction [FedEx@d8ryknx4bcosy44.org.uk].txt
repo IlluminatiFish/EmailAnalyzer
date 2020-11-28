@@ -1,0 +1,26 @@
+[~] Source Email: FedEx@d8ryknx4bcosy44.org.uk
+
+[~] Mailer: None
+[~] Return To Email: emailbro@qq.com
+[~] Return Path Email: an4j9g2w1ve7gjg@gcore.lu
+[~] Sender Email: None
+
+[!] Compromised Email Used as forged "From" email
+[!] Possible domain compromise of d8ryknx4bcosy44.org.uk domain
+
+[!] Forged "from" field (Source email & Return path mismatch)
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [1 hop(s)]:
+ - [MSA] ed-sl-a123.fe.core.pw [IP: 92.38.163.147] - (AS199524 G-Core Labs S.A. / G-Core Labs S.A. / GCL)
+
+[~] Notes:
+ - Source Email Domain = d8ryknx4bcosy44.org.uk (IP: None)
+  - ASN: None
+  - ISP: None
+  - ORG: None
+
+[+] Decoding email body using 7bit encoding..
+[+] Searching for URLs in the email body
+[-] No URLs were found in the body of the email!
