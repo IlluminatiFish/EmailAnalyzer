@@ -1,0 +1,25 @@
+[~] Source Email: nindya.s@ub.ac.id
+
+[~] Mailer: Microsoft Outlook Express 6.00.2600.0000
+[~] Return To Email: <ktommypayinternationalbank@ktommycompany.com>
+[~] Return Path Email: nindya.s@ub.ac.id
+[~] Sender Email: None
+
+[!] Compromised Email Used as forged "From" email
+[!] Possible domain compromise of ub.ac.id domain
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [2 hop(s)]:
+ - [MSA] None [IP: 207.166.95.8] - (AS6220 inContact Inc. / None / inContact Inc.)
+ - [MDA] lax-inmai01.incontact.com [IP: 207.166.95.11] - (AS6220 inContact Inc. / inContact Inc. / inContact Inc.)
+
+[~] Notes:
+ - Source Email Domain = ub.ac.id (IP: 175.45.184.70)
+  - ASN: AS46019 Universitas Brawijaya
+  - ISP: Universitas Brawijaya
+  - ORG: UNIBRAW
+
+[+] Decoding email body using 7bit encoding..
+[+] Searching for URLs in the email body
+[-] No URLs were found in the body of the email!
