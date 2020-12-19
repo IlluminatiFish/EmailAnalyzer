@@ -1,0 +1,28 @@
+[~] Source Email: FedEx@cpl4ol5g5xnjuv8.org.uk
+
+[~] Mailer: None
+[~] Return To Email: emailbro@qq.com
+[~] Return Path Email: mc07cda1yze5div@gcore.lu
+[~] Sender Email: None
+
+[!] Compromised Email Used as forged "From" email
+[!] Possible domain compromise of cpl4ol5g5xnjuv8.org.uk domain
+
+[!] Forged "from" field (Source email & Return path mismatch)
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [3 hop(s)]:
+ - [MSA] ec2-3-223-115-185.compute-1.amazonaws.com [IP: 3.223.115.185] - (AS14618 Amazon.com, Inc. / Amazon Technologies Inc. / AWS EC2 (us-east-1))
+ - [MTA-1] static.148.9.63.178.clients.your-server.de [IP: 178.63.9.148] - (AS24940 Hetzner Online GmbH / Hetzner Online GmbH / Hetzner)
+ - [MDA] None [IP: 204.27.57.178] - (AS19969 Joe's Datacenter, LLC / None / Joe's Datacenter, LLC)
+
+[~] Notes:
+ - Source Email Domain = cpl4ol5g5xnjuv8.org.uk (IP: None)
+  - ASN: None
+  - ISP: None
+  - ORG: None
+
+[+] Decoding email body using 7bit encoding..
+[+] Searching for URLs in the email body
+[-] No URLs were found in the body of the email!
