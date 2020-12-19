@@ -1,0 +1,20 @@
+
+[~] Source Email: cenius@nalivvann54.ru
+
+[~] Mailer: None
+[~] Return To Email: None
+[~] Return Path Email: cenius@nalivvann54.ru
+[~] Sender Email: cenius@nalivvann54.ru
+
+[~] Email Traceroute [1 hop(s)]:
+ - [MSA] None [IP: 45.156.23.168] - (AS56971 IT Outsourcing LLC / None / None)
+
+[~] Notes:
+
+[+] Decoding email body using base64 encoding..
+[+] Searching for URLs in the email body
+[+] URLs found in body (1)
+
+[+] Found URL in body: http://nalivvann54.ru/images/26320458555/656551/1608328007.gif
+[+] Attempting to gather redirect chain data mode: TRUE
+[-] No request history found, no redirects
