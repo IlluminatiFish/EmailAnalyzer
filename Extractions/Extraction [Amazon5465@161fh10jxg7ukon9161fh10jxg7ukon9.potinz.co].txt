@@ -1,0 +1,28 @@
+[~] Source Email: Amazon5465@161fh10jxg7ukon9161fh10jxg7ukon9.potinz.co
+
+[~] Mailer: None
+[~] Return To Email: None
+[~] Return Path Email: return@vodien.com
+[~] Sender Email: None
+
+[!] Forged "from" field (Source email & Return path mismatch)
+
+[!] Spoofed "from" field (Source email & Sender mismatch)
+
+[~] Email Traceroute [2 hop(s)]:
+ - [MSA] 116.wowrack.com [IP: 216.244.76.116] - (AS23033 Wowrack.com / None / Wowrack.com)
+ - [MDA] vs-totobet.au.syrahost.com [IP: 27.124.121.34] - (AS38719 Dreamscape Networks Limited / None / Dreamscape Networks Inc)
+
+[~] Notes:
+ - Source Email Domain = 161fh10jxg7ukon9161fh10jxg7ukon9.potinz.co (IP: None)
+  - ASN: None
+  - ISP: None
+  - ORG: None
+
+[+] Decoding email body using quoted-printable encoding..
+[+] Searching for URLs in the email body
+[+] URLs found in body (1)
+
+[+] Found URL in body: https://firebasestorage.googleapis.com/v0/b/mtb125556d.appspot.com/o/amzde66335.html?alt=media&token=b8351a09-3ab8-4f74-9ec7-fc1cdcda819b
+[+] Attempting to gather redirect chain data mode: TRUE
+[-] No request history found, no redirects
