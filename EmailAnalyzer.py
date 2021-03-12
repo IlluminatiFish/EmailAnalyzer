@@ -104,7 +104,7 @@ def gatherChain(url, verify_mode): #Gather the redirect chain of the url passed 
                 if parser_object.netloc: #If domain is detected
                     try:
                         ip = socket.gethostbyname(parser_object.netloc) #Resolve to an IPv4
-                    except:
+                    except Exception:
                         ip = None #Will give a null IP if the domain cannot be resolved
 
                     print('    - [Redirect: {}] [IP: {}] [Status: {}] - {}'.format(redirect, ip, resp.status_code, resp.url))
@@ -115,7 +115,7 @@ def gatherChain(url, verify_mode): #Gather the redirect chain of the url passed 
             if parser_object.netloc: #If domain is detected
                 try:
                     ip = socket.gethostbyname(parser_object.netloc)
-                except:
+                except Exception:
                     ip = None
             print('  [Effective URL] [IP: {}] [Status: {}] - {}'.format(ip, response.status_code, response.url))
 
@@ -148,7 +148,7 @@ def tracerouteDomain(route):
         except socket.error:
             ip = None
         if counter == 1:
-            print(" - [MSA]".format(counter), domain ,"[IP: {}]".format(ip),"- (" + str(getInformation("ASN", domain)), "/",
+            print(" - [MSA]", domain ,"[IP: {}]".format(ip),"- (" + str(getInformation("ASN", domain)), "/",
                           str(getInformation("ISP", domain)), "/", str(getInformation("ORG", domain)) + ")")
         elif counter == traceSize:
             print(" - [MDA]", domain ,"[IP: {}]".format(ip),"- (" + str(getInformation("ASN", domain)), "/",
@@ -181,10 +181,10 @@ def findURLs(string):
     if string is not None:
 
         p = re.compile(r'"(http.*?)"', re.MULTILINE|re.DOTALL)
-        list = re.findall(p, string)
+        urls = re.findall(p, string)
 
         
-        converted_list = [url.replace('\n', '') for url in list] # We want to strip all elements in this list
+        converted_list = [url.replace('\n', '') for url in urls] # We want to strip all elements in this list
         if len(converted_list) == 0:
             print('[-] No URLs were found in the body of the email!')
         else:
@@ -404,7 +404,7 @@ def outputExtraction():
 
 
 
-        size = len(source_mail_server.split(".")) - 1 #Indexes of lists start at 0 so we must subtract 1
+        #size = len(source_mail_server.split(".")) - 1 #Indexes of lists start at 0 so we must subtract 1
 
     print('')
     if(validateIPv4(source_mail_server) == False):
